@@ -1,0 +1,1 @@
+A random number game created during the Treehouse JavaScript Basics course.
